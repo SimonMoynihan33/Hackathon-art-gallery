@@ -320,6 +320,7 @@ dist
 .vscode-test
 .vscode/*.*
 .vscode/*
+.vscode/settings.json
 
 # yarn v2
 .yarn/cache
@@ -327,4 +328,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-.vscode/settings.json
