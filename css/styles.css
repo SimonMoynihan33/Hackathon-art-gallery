@@ -3,12 +3,14 @@
 /* ---------------- Profile */
 .description {
     font-size: .5rem;
-    padding-right: 10px;
 }
 
-.profile-image {
-    background: url("../assets/img/profile-img.jpeg") no-repeat top center/cover;
-    border-radius: 100px;
+.profile-image img {
+    /* background: url("../assets/img/profile-img.jpeg") no-repeat top center/cover; */
+    border-radius: 50%;
+    height: 100%;
+    max-width: 200px;
+    max-height: 175px;
 }
 
 @media screen and (min-width: 540px) {
