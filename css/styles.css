@@ -13,6 +13,10 @@
     margin-top: 40px;
 }
 
+.footer-anchor{
+    text-decoration: none;
+}
+
 @media screen and (min-width: 740px) {
     .description {
         font-size: 1.2rem;
@@ -21,5 +25,5 @@
     .profile-image img {
         max-width: 250px;
         max-height: 250px;
-    }
+  }
 }
