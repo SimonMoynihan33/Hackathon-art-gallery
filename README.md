@@ -89,6 +89,12 @@ John Doe Studios can be accessed by this [link](https://barkode.github.io/art-ga
 
 ---
 
+## Working process
+
+In our project we used Agile methodology and worked in Trello as a dashboard for implement this approach
+
+- [Trello - working in a team](docs/trello.png)
+
 ## Deployment
 
 ### Deployment to GitHub Pages
