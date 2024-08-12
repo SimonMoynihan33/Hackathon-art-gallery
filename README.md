@@ -2,11 +2,11 @@
 
 ---
 
-# *Jondo Studios*
+# *John Doe Studios*
 
-Jondo Studios is the online representation of the famous Greek painter. Anyone interested can see some of his artwork available to buy.
+John Doe Studios is the online representation of the famous Greek painter. Anyone interested can see some of his artwork available to buy.
 
-Jondo Studios can be accessed by this [link](https://barkode.github.io/art-gallery-team-project/)
+John Doe Studios can be accessed by this [link](https://barkode.github.io/art-gallery-team-project/)
 
 ![Responsive Mockup](docs/responsive.jpg)
 
@@ -39,13 +39,13 @@ Jondo Studios can be accessed by this [link](https://barkode.github.io/art-galle
     * Contact form
     * Footer
 
-  * Jondo Studios site is responsive.
+- John Doe Studios site is responsive.
 
-  * On mobile devices: content placed has "narrow style".
+- On mobile devices: content placed has "narrow style".
 
 ![Home Mobile Version](docs/mobile.png)
 
-  * On tablet or laptop/desktop: when user see from high resolution device content become wider
+  * On tablet or laptop/desktop: when user see from high resolution device content becomes wider
 
 ![Home Tablet/Desktop Version](docs/desktop.png)
 
@@ -57,23 +57,25 @@ Jondo Studios can be accessed by this [link](https://barkode.github.io/art-galle
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - was used to create interactivity with the user.
 
 ## Frameworks, Libraries & Programes Used
+- [Trello](https://trello.com/) - Workspace Trello was used as a dashboard for managing tasks.
+- [Bootstrap 5](https://getbootstrap.com/) - Bootstrap is a powerful, feature-packed frontend toolkit used in this project.
 - [Google fonts](https://fonts.google.com) - Google fonts were used to import the 'Carme' font into the HTML file which is used on all pages throughout the project
 - [Font Awesome](https://fontawesome.com) - Font Awesome was used on all footer of the pages throughout the website to add icon for aesthetic and UX purposes.
 - [Git](https://gitpod.io) - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-- [GitHub](https://github.com) - GitHub is used to store the projects code after being pushed from Git.
+- [GitHub](https://github.com) - GitHub is used for teamwork and to store the projects code after being pushed from Git.
 
 ---
 ## Design
 
 ### Color Scheme
 
-- Сolors of the Jondo Studios site are neutral. Buttons colors were choosen as the best practice.
+- Сolors of the John Doe Studios site are neutral. Buttons colors were choosen as the best practice.
 
 ### Typography
 
 ![Main Font](docs/primary_font.png)
 
-- Carme Google Font was used as the main font of the website in order to increase readability and beautyfication of the content on the pages.
+- Merriweather Google Font family was used as the main font of the website in order to increase readability and beautyfication of the content on the pages.
 
 ### Wireframes
 
@@ -86,13 +88,6 @@ Jondo Studios can be accessed by this [link](https://barkode.github.io/art-galle
 - [Home Page. Tablet/Desktop Screen](docs/basic-wireframe.jpg)
 
 ---
-
-## Testing
-
-Please refer to the [TESTING.md](TESTING.md) file for all test-related documentation.
-
----
-
 
 ## Deployment
 
@@ -122,12 +117,38 @@ In your IDE Terminal, type the following command to clone my repository:
 ---
 ## Credits
 
-+ #### Media
+## Media
+  - [Used Bootstrap template](https://startbootstrap.com/theme/creative)
 
-    - All images and logos for the website have been painted by the painter.    
+  - [Hero Image](https://www.pexels.com/photo/man-in-white-and-blue-striped-long-sleeved-shirt-painting-near-seashore-896108/) - Heinz Klier   
+
+### Gallery
+
+  - [https://www.pexels.com/photo/blue-and-grey-paint-brush-stroke-1537334/](https://www.pexels.com/photo/blue-and-grey-paint-brush-stroke-1537334/ "‌")
+  - [https://www.pexels.com/photo/photo-of-abstract-painting-1843716/](https://www.pexels.com/photo/photo-of-abstract-painting-1843716/ "‌")
+  - [https://www.pexels.com/photo/yellow-white-and-blue-abstract-painting-4371628/](https://www.pexels.com/photo/yellow-white-and-blue-abstract-painting-4371628/ "‌")
+  - [https://www.pexels.com/photo/abstract-painting-1418595/](https://www.pexels.com/photo/abstract-painting-1418595/ "smartCard-inline")
+  - [https://www.pexels.com/photo/photo-of-abstract-painting-on-canvas-1812960/](https://www.pexels.com/photo/photo-of-abstract-painting-on-canvas-1812960/ "smartCard-inline")
+  - [https://www.pexels.com/photo/multicolored-abstract-painting-1012982/](https://www.pexels.com/photo/multicolored-abstract-painting-1012982/ "‌")
+  - [https://www.pexels.com/photo/green-and-red-abstract-painting-1070534/](https://www.pexels.com/photo/green-and-red-abstract-painting-1070534/ "‌")
+  - [https://www.pexels.com/photo/abstract-painting-1109354/](https://www.pexels.com/photo/abstract-painting-1109354/ "‌")
+  - [https://www.pexels.com/photo/blue-white-red-and-yellow-abstract-painting-1143758/](https://www.pexels.com/photo/blue-white-red-and-yellow-abstract-painting-1143758/ "‌")
+  - [https://www.pexels.com/photo/photo-of-paint-splatter-artwork-1000366/](https://www.pexels.com/photo/photo-of-paint-splatter-artwork-1000366/ "‌")
+  - [https://www.pexels.com/photo/red-and-yellow-floral-textile-1787243/](https://www.pexels.com/photo/red-and-yellow-floral-textile-1787243/ "smartCard-inline")
+  - [https://www.pexels.com/photo/green-blue-and-red-abstract-painting-1799901/](https://www.pexels.com/photo/green-blue-and-red-abstract-painting-1799901/ "smartCard-inline")
+
+Link to author:
+[https://www.pexels.com/@steve/highlights/](https://www.pexels.com/@steve/highlights/ "smartCard-inline")
+
+- [Icons](https://www.flaticon.com/free-icon/art-and-design_3528221?term=art&page=1&position=31&origin=search&related_id=3528221 "‌")
+
+- Snippet code: from Code institute Love Running project
+
+- [Profile Image](https://www.pexels.com/photo/a-bearded-man-in-a-checkered-shirt-and-a-cap-standing-on-a-field-26222877/ "smartCard-inline") - By Zaur Takhgiriev
 
 + #### Tools
 
     - [Adobe Photoshop](https://www.adobe.com) was used to resize and crop images.
     - [TinyPNG](https://tinypng.com/) was used to smart WebP, PNG and JPEG compression for faster Websites.
+    - [Squoosh](https://squoosh.app/) - Convert and optimize pictures
 ---
