@@ -6,16 +6,20 @@
 }
 
 .profile-image img {
-    /* background: url("../assets/img/profile-img.jpeg") no-repeat top center/cover; */
     border-radius: 50%;
     height: 100%;
-    max-width: 200px;
-    max-height: 175px;
+    max-width: 125px;
+    max-height: 125px;
+    margin-top: 40px;
 }
 
-@media screen and (min-width: 540px) {
+@media screen and (min-width: 740px) {
     .description {
         font-size: 1.2rem;
     }
-   
+
+    .profile-image img {
+        max-width: 250px;
+        max-height: 250px;
+    }
 }
